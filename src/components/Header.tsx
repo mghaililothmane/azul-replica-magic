@@ -33,7 +33,7 @@ const Header = () => {
             <div className="w-8 h-8 bg-gradient-ocean rounded-full flex items-center justify-center">
               <span className="text-white font-bold text-lg">A</span>
             </div>
-            <span className="text-xl font-bold text-foreground">AZUL SURF</span>
+            <span className="text-xl font-bold text-foreground">kaza moon</span>
           </div>
 
           {/* Desktop Navigation */}
